@@ -11,5 +11,5 @@ for x in notas:
         print ("O valor sacado sera dividido nas seguintes notas %i nota(s): de R$ %.2f"%((N/x),x))
         N %= (x)
 
-#O codgio abaixo considera o valor de 1 real como cedula, sendo assim foi considerado
+
 
